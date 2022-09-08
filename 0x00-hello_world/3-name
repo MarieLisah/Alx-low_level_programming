@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $C5 -o cisfun
+gcc $Cfile -o cisfun
